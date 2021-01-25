@@ -8,8 +8,8 @@
   <li><h5>Programmer</h5></li>
   <li><h5>Web Pentester</h5></li>
 </ul>
-<br></br>
-<a href = "https://www.linkedin.com/in/nikhil-dash-b21109173/" ><h4>LinkedIN</h4></a>
+
+<a style= "margin-top:7px;" href = "https://www.linkedin.com/in/nikhil-dash-b21109173/" ><h4>LinkedIN</h4></a>
 
 
 <!--
