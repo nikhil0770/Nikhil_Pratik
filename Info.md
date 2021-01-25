@@ -1,4 +1,11 @@
 ## Hi !! I am Nikhil
+
+<style>
+img{
+  width:20px;
+  height:20px;
+ }
+</style>
 <ul>
   <li><h5>Full Stack Web Developer ✌</h5></li>
   <li><h5>Programmer</h5></li>
