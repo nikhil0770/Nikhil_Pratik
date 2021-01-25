@@ -1,2 +1,3 @@
-# Nikhil_Pratik
-About Me
+# Nikhil Pratik
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
