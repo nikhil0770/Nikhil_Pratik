@@ -1,8 +1,21 @@
 <p align="center"><samp><b> Hi there! 👋 </b></samp></p>
-<p align="center"><samp><b> 
- Hello, folks! <img src="https://avatars.githubusercontent.com/u/60705551?s=460&u=1456d16d3bfcb461567bfe3b0d50226e15f89320&v=4" width="40px"></b></samp></p>
 
-## Nikhil
+## I am Nikhil
 
-<h3>Full Stack Web Developer ✌</h3>
+<ul>
+  <li>Programmer</li>
+  <li>Full Stack Web Developer</li>
+  <li>Web Pentester</li>
+  <li>Pursuing B.tech in IT at VSSUT</li>
+</ul>
+<br/>
+<h3><b><samp>Programming Languages</samp></b></h3>
+
+<h3><b><samp>Scripting Languages</samp></b></h3> 
+  ![HTML](https://img.shields.io/badge/HTML-blue?style=flat-round&logo=HTML5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS-red?style=flat-round&logo=CSS3&logoColor=white)
+  ![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-yellow?style=flat-round&logo=JAVASCRIPT&logoColor=white)
+  
 <a href = "https://www.linkedin.com/in/nikhil-dash-b21109173/" target = "_blank">LinkedIN</a>
+
+
