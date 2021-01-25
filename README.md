@@ -12,7 +12,7 @@
 <h3><b><samp>Programming Languages</samp></b></h3>
 
 <h3><b><samp>Scripting Languages</samp></b></h3> 
-  ![HTML](https://img.shields.io/badge/HTML-blue?style=flat-round&logo=HTML5&logoColor=white)
+  [HTML](https://img.shields.io/badge/HTML-blue?style=flat-round&logo=HTML5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS-red?style=flat-round&logo=CSS3&logoColor=white)
   ![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-yellow?style=flat-round&logo=JAVASCRIPT&logoColor=white)
   
