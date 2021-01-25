@@ -9,8 +9,10 @@
   <li><h5>Web Pentester</h5></li>
 </ul>
 
-<a style= "margin-top:7px;" href = "https://www.linkedin.com/in/nikhil-dash-b21109173/" ><h4>LinkedIN</h4></a>
-
+<ul>
+<li><a style= "margin-top:7px;" href = "https://www.linkedin.com/in/nikhil-dash-b21109173/" ><h4>LinkedIN</h4></a></li>
+<li><a href = "https://www.youtube.com/channel/UCXslKOlrQZm1xyJUnUopfWQ"><h4>Youtube</h4></a></li>
+</ul>
 
 <!--
 **nikhil0770/nikhil0770** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
