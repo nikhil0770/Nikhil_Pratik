@@ -10,7 +10,7 @@
 </ul>
 
 <a style= "margin-top:7px;" href = "https://www.linkedin.com/in/nikhil-dash-b21109173/" ><h4>LinkedIN</h4></a>
-<a href = "https://www.youtube.com/channel/UCXslKOlrQZm1xyJUnUopfWQ"><h4>Youtube</h4></a>
+
 
 
 <!--
