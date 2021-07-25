@@ -4,7 +4,7 @@
 
 
 <ul>
-  <li><h5>Full Stack Web Developer ✌</h5></li>
+  <li><h5>Full Stack Web Developer</h5></li>
   <li><h5>Programmer</h5></li>
   <li><h5>Web Pentester</h5></li>
 </ul>
